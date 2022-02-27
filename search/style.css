@@ -1,7 +1,7 @@
 *{margin:0;padding:0;box-sizing:border-box;list-style:none;}
 a{text-decoration:none;}
 body{background:#000;font-family:Nunito,sans-serif;}
-.cards{display:grid;grid-template-columns:1fr 1fr 1fr;}
+.cards{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;}
 .card{text-align:center;}
 .card img{padding:1px;width:98%;height:98%;border-radius:7px;}
 .card span{padding:0 .3rem;display:none;}
